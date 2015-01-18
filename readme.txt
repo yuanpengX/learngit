@@ -1,7 +1,8 @@
-this is a diao diao's fist git storage
-i don't know how to get a new file 
-i add something in this file and test it
-git is interesting!
-wow god i like it so much
-but i don't think that you will learn it in a day
-fasdkljfsadjf;ksdjf
+@2015/1/18
+today I decide to start my big winter holiday plan
+I want just do 3 things:
+1.algolrithm
+2.python
+3.machine learning
+I do hope that git help me a lot,and my english will be improved slowly.
+as soon as I write something, everynote will be listed here.
