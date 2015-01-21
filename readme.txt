@@ -15,3 +15,6 @@ today I'd like to learn something about git
 
 @2015/1/21
 today I've learn some remote hub control and branch management
+
+@2015/1/22 
+today I've learn function and switch implementation in python
