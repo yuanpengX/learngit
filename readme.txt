@@ -18,3 +18,8 @@ today I've learn some remote hub control and branch management
 
 @2015/1/22 
 today I've learn function and switch implementation in python
+
+I wrote a basic spider program
+
+@2015/1/23
+today I've learn something about re and how to use python to write  a spider
