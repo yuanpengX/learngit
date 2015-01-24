@@ -2,7 +2,7 @@
 today I decide to start my big winter holiday plan
 I want just do 3 things:
 1.algolrithm
-2.python
+i2.python
 3.machine learning
 I do hope that git help me a lot,and my english will be improved slowly.
 as soon as I write something, everynote will be listed here.
@@ -23,3 +23,8 @@ I wrote a basic spider program
 
 @2015/1/23
 today I've learn something about re and how to use python to write  a spider
+
+@2015/1/24
+
+Spider project started today
+machine learning algorithem 1 - gradient decent 
