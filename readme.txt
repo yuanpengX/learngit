@@ -29,3 +29,5 @@ machine learning algorithm 1 - gradient decent
 I've laid aside my big plan for several days for my poor computer's breakingdown.
 It's very hard to do one thing from head to tail, but I will try my best.
 
+@2015/1/31
+I've learned somthing in walk file directory

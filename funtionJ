@@ -1,0 +1,14 @@
+m = 4;
+x= [2104,1416,1534,852];
+y = [460,232,315,178];
+ theta0_d = -1000:1:1000;
+ theta1_d = -10:0.01:10;
+[theta0 theta1] = meshgrid(theta0_d,theta1_d);
+sum = theta0-theta0;
+for i = 1:m
+   sum=sum+(theta0+theta1.*x(i)-y(i)).^2;
+end
+j = 1/(2*m).*sum;
+plot3(theta0,theta1,j); 
+hold on
+pause(10);
