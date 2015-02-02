@@ -41,3 +41,13 @@ Python file end:
 	while (str == ''):
 		str = fp.read();
 
+@2015/2/2
+Today I've implement a gradient decent algorithm in one varient.
+USAGE OF Python function: sum:
+sum([...]);
+sum([function(item) for a[,b..] in list1.items() (if item in list2)]);
+Use algorithm to recommend movies;
+USAGE OF python dic.setdefault(key[,value]):
+if key exists,return value
+else set default value and return value;
+
