@@ -50,4 +50,7 @@ Use algorithm to recommend movies;
 USAGE OF python dic.setdefault(key[,value]):
 if key exists,return value
 else set default value and return value;
+@2015/2/3
+Today I've learned successfully how to recommend movies or products to a customer
+
 
