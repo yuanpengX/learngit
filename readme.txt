@@ -53,4 +53,11 @@ else set default value and return value;
 @2015/2/3
 Today I've learned successfully how to recommend movies or products to a customer
 
+@2015/2/4
+pinv(X): to calculate non-square matix 
+theta = inv(x'*x)*x'*y = pinv(x)*y(latter is more convenient)
 
+sigular Matrix X : |X| = 0;
+degenerate Matrix X : r(X)<demension(V) intuition V is a vector space
+starting to learn about search engine
+python class definiation
