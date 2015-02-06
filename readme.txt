@@ -61,3 +61,23 @@ sigular Matrix X : |X| = 0;
 degenerate Matrix X : r(X)<demension(V) intuition V is a vector space
 starting to learn about search engine
 python class definiation
+
+@2015/2/5
+learn beautifsoup module in python
+
+@2015/2/6
+Today I've learned something about Markdown who has some interesting and very easy syntax:
+
+###  title
+* + - list
+~text~   index
+~~text~~ inner line
+**text**  or __text__ bold
+*text* or _text_   italic
+`code`
+> reference
+[text](url)   link
+![text](url)  image
+
+
+~~

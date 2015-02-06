@@ -1,0 +1,23 @@
+		Learn BeatuifulSoup Step By Step
+Beauitful Soup is a Python library for pulling data out of HTML and XML files. Beautiful Soup is recommended for all new project. From now on, I'd like to learn it for my search engine project.
+1. Install 
+use "apt-get install python-setuptool" "apt-get install python-pip" to get some install tool. Then use "apt-get install Python-bs4" in linux CLI, now you'll get Beautifil Soup module.
+Install a parser
+In my linux version, a html parse has already existed. use "at in linux CLI, now you'll get Beautifil Soup module.
+Install a parser
+In my linux version, a html parse has already existed. use "apt-get install python-lxml" "easy_install lxml" "pip install lxml" to setup your own html lib.
+Also, there is another parser available:html5lib. use "apt-get install python-html5lib" "easy_install html5lib" "pip install html5lib"
+
+2.MAKE a Soup
+using BS(short name TO BeautifulSoup) construct function, you can get a object. You can pass a string or an open filehandle onto it.
+
+file or string will be converted into a stadared html file.
+
+	INTRODUCTION TO SOME IMPORT OBJECT IN BS
+		1.TAG: every tag will be orgnize as a tree. "tag.subtree_name"will return a tag object nameed subtree_name if it existed. 
+			name: tag.name
+			attribute: you can use "tag.attrs" to check attributes of a tag, alse "tag[key]" will return value of a attribute named key. you can use it like dict in python. use "del tag[key]" will delete a attribute in a tag.
+
+
+		2.NavigableString: which is much like string type in python
+

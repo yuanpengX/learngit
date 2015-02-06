@@ -1,0 +1,23 @@
+#Learn BeautifulSoup Step by Step
+Beatuiful Soup is a Python library for pulling data out HTML and XML files. Beautiful Soup is recommended for all new projects. From now on, I'd like to learn it for my search engine project, and I WANT to share my learning expriences with you 
+##1.Install
+1. Get Python setuptools
+> apt-get install python-setuptools
+> apt-get install python-pip
+2. Intall BS4(BeatifulSoup)modules
+> apt-get install bs-4
+3.  Install parser
+There are several parser available. In my System, ubuntu 14.10, XML was already accessable. But, just in case, I installed  a html5 lib at the same time.
+> apt- get install html5lib
+> easy_install html5lib
+pip install htmllib
+
+~By the way, if lxml is not existed in your SYSTEM, and you want have a copy, you can use similar command as listed above, with html5lib substituted by lxml~
+
+If everything goes well, you can use BS4modules in your python program now.
+##2.Make Your First SOUP
+SOUP is a kind of object defined well in BS4. Using BS constructer, you can get a object. You can pass a string or an open filehandle into it. These file or strings will be converted into a standared html file.
+> from bs4 import BeatuifulSoup
+> soup = BeauifulSoup("hello");
+> soup = BeutifulSoup(open("hello"));
+> print soup
