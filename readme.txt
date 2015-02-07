@@ -80,4 +80,28 @@ Today I've learned something about Markdown who has some interesting and very ea
 ![text](url)  image
 
 
-~~
+@2015/2/7
+Today I've learned how to make formula in remarkable.
+$$
+VERY INTERESTING!
+
+```  ``` : syntax highlighted
+***  : horin line
+==  == : highlighted 
+
+ctr+o  : open a file
+   +q :quit
+   +e :extract to pdf
+   +t :insert time
+   +i : italic
+   +a : select all
+   +s : save
+   +d :delete line
+   +g :horizone line
+   +l :insert link
+   +z :undo
+   +x :cut
+   +c : copy
+   +v :paste
+   +b :bold
+   +n :create new file

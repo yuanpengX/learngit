@@ -1,0 +1,22 @@
+#Logistic Regression in Machine Learning 
+  When I first watch A.NG's M-L lectures, I found that in his video, logistic regression and linear regression has the same updatae rule, which is strange to me at that time. So, I refered some other materials and finally I found a solution. This is a summary of what I've learned.
+##1.WHAT  IS LOGISTIC REGRESSION
+Just as A.NG showed in his slides, logistic regression is used to classify several groups, which is supervised learning at the same time.
+
+Usualy we use below to update $\theta$
+
+$\theta =  \theta -  \alpha * {{dJ(\theta)}\over{d\theta}}\tag{online available}$
+
+$x^2\tag{online available}$                                         
+
+$I = x+3\tag{How does it works}$
+
+
+
+
+
+
+
+
+
+
