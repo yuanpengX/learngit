@@ -105,3 +105,9 @@ ctr+o  : open a file
    +v :paste
    +b :bold
    +n :create new file
+
+@2015/2/8
+Today I've learned how to build my own blog with hexo
+
+@2015/2/9
+Today classmate reunion
