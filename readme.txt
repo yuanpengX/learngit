@@ -111,3 +111,8 @@ Today I've learned how to build my own blog with hexo
 
 @2015/2/9
 Today classmate reunion
+
+@2015/2/14
+Today is valentines day. 
+I've Just put my plan down for a very long time. 
+Today It's all about NN, which is very hard to understand.
