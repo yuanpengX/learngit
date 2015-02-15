@@ -116,3 +116,8 @@ Today classmate reunion
 Today is valentines day. 
 I've Just put my plan down for a very long time. 
 Today It's all about NN, which is very hard to understand.
+
+
+@2015/2/16
+These days, I've just spent a lot of times in some meaningless things.
+Today, I finished NN in ANG's class,with lots of questions remained.
