@@ -126,3 +126,6 @@ Today, I finished NN in ANG's class,with lots of questions remained.
 When I submit programming exersices on ex3-5, A strange hint always goes out: Do not include theta(1). That realy confused me. After wathing PDF again, I found that when we compute J(\Theta) we also do not include \theta_0, which is the same as computing {\partial \over {\partial\theta}}
 
 All in all, I've just finished handwritten Digits Rrecognition.
+
+@2015/2/19
+Today I've just implement a luck_money program by python, which is very interesting.
