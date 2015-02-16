@@ -121,3 +121,8 @@ Today It's all about NN, which is very hard to understand.
 @2015/2/16
 These days, I've just spent a lot of times in some meaningless things.
 Today, I finished NN in ANG's class,with lots of questions remained.
+
+@2015/2/17
+When I submit programming exersices on ex3-5, A strange hint always goes out: Do not include theta(1). That realy confused me. After wathing PDF again, I found that when we compute J(\Theta) we also do not include \theta_0, which is the same as computing {\partial \over {\partial\theta}}
+
+All in all, I've just finished handwritten Digits Rrecognition.
