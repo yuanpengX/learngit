@@ -127,5 +127,18 @@ When I submit programming exersices on ex3-5, A strange hint always goes out: Do
 
 All in all, I've just finished handwritten Digits Rrecognition.
 
-@2015/2/19
+@2015/2/18
 Today I've just implement a luck_money program by python, which is very interesting.
+
+@2015/2/19
+SVM started today.
+J = C*SUM(y*cost_1()+(1-y)*cos_0())+sum(t.^2);
+What do deep learning really means? It's a unsupervised machine learning method used to get features from a huge data set.
+w(THETA) is just the normal vector of a surface.
+:w'*x+b=0
+scaling to make min(w'*x+b)y = 1
+
+How do lambda works?
+-(J + \lambda*\theta)
+these two part has different weight(which is depends on data), penalty lamda is the same.
+
