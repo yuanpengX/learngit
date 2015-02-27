@@ -60,12 +60,12 @@ Theta2_grad = zeros(size(Theta2));
 %               backpropagation. That is, you can compute the gradients for
 %               the regularization separately and then add them to Theta1_grad
 %               and Theta2_grad from Part 2.
-%
+% 
 %forward propagation
-X = [ones(m,1) X];
-a1 = sigmoid(X*Theta1');
-a1 = [ones(m,1) a1];
-h = sigmoid(a1*Theta2');
+a1 = [ones(m,1) X];
+a2 = sigmoid(a1*Theta1');
+a2 = [ones(m,1) a2];
+h = sigmoid(a2*Theta2');
 %cal y
 y_label = [];
 for i = 1:m
@@ -76,11 +76,20 @@ end
 J/=m;
 J += lambda/(2*m)*(sum(sum(Theta1(:,2:end).^2))+sum(sum(Theta2(:,2:end).^2)));
 
+%
+h = h';
+y_label = y_label';
 %compute delta
 for i = 1:m
-Theta2_grad = 1/m*((h-y)+;
-
-
+delta_L = h(:,i)-y_label(:,i);
+delta_h = (Theta2'*delta_L).*sigmoidGradient((a2')(:,i));
+Theta1_grad+=delta_h(2:end)*a1(i,:);
+Theta2_grad+=delta_L*a2(i,:);
+end
+Theta1_grad/=m;
+Theta2_grad/=m;
+Theta1_grad(:,2:end) += lambda/m*Theta1_grad(:,2:end);
+Theta2_grad(:,2:end) += lambda/m*Theta2_grad(:,2:end);
 
 
 
