@@ -141,4 +141,5 @@ scaling to make min(w'*x+b)y = 1
 How do lambda works?
 -(J + \lambda*\theta)
 these two part has different weight(which is depends on data), penalty lamda is the same.
-
+@2015/2/27
+It's has been a long time since last commitment. 6 days remains. 
