@@ -63,9 +63,11 @@ Theta2_grad = zeros(size(Theta2));
 % 
 %forward propagation
 a1 = [ones(m,1) X];
-a2 = sigmoid(a1*Theta1');
+z2 = a1*Theta1';
+a2 = sigmoid(z2);
 a2 = [ones(m,1) a2];
-h = sigmoid(a2*Theta2');
+z3 = a2*Theta2';
+h = sigmoid(z3);
 %cal y
 y_label = [];
 for i = 1:m
@@ -79,22 +81,29 @@ J += lambda/(2*m)*(sum(sum(Theta1(:,2:end).^2))+sum(sum(Theta2(:,2:end).^2)));
 %
 h = h';
 y_label = y_label';
+z2 = [ones(m,1) z2];
 %compute delta
 for i = 1:m
 delta_L = h(:,i)-y_label(:,i);
-delta_h = (Theta2'*delta_L).*sigmoidGradient((a2')(:,i));
+delta_h = (Theta2'*delta_L).*sigmoidGradient((z2')(:,i));
 Theta1_grad+=delta_h(2:end)*a1(i,:);
 Theta2_grad+=delta_L*a2(i,:);
 end
 Theta1_grad/=m;
 Theta2_grad/=m;
-Theta1_grad(:,2:end) += lambda/m*Theta1_grad(:,2:end);
-Theta2_grad(:,2:end) += lambda/m*Theta2_grad(:,2:end);
-
-
-
-
-
+Theta1_grad(:,2:end) += lambda/m*Theta1(:,2:end);
+Theta2_grad(:,2:end) += lambda/m*Theta2(:,2:end);
+%
+%for t = 1:m
+%a1 = [1 X(i,:)];
+%z2 = a1*Theta1';
+%a2 = [1 sigmoid(z2)];
+%z3 = a3*Theta2';
+%a3 = sigmoid(z3);
+%y_L = ones(m,1);
+%y_L(y(i)) = 1;
+%delta_L = a3' - y_L;
+%delta_h = Theta2'*delta_L.*sigmoidGradient(z2); 
 
 
 

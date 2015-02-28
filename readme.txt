@@ -142,4 +142,7 @@ How do lambda works?
 -(J + \lambda*\theta)
 these two part has different weight(which is depends on data), penalty lamda is the same.
 @2015/2/27
-It's has been a long time since last commitment. 6 days remains. 
+It's has been a long time since last commitment. 6 days remains.
+
+@2015/2/28
+Today I've learned something about NN and BP 
