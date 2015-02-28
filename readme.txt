@@ -145,4 +145,6 @@ these two part has different weight(which is depends on data), penalty lamda is 
 It's has been a long time since last commitment. 6 days remains.
 
 @2015/2/28
-Today I've learned something about NN and BP 
+Today I've learned something about NN and BP;
+while implement gradient, I made a mistake:
+delta = \theta'*\delta.*g'(z)    there I mistake z with a
