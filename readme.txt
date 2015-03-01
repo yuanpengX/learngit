@@ -148,3 +148,6 @@ It's has been a long time since last commitment. 6 days remains.
 Today I've learned something about NN and BP;
 while implement gradient, I made a mistake:
 delta = \theta'*\delta.*g'(z)    there I mistake z with a
+
+@2015/3/1
+First day of march, I finished a program to factorize any num.

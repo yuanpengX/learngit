@@ -4,7 +4,7 @@ kk = int(raw_input('please input number:'));
 
 def is_prim(num):
 	a = 2;
-	while a < math.sqrt(num):
+	while a <= math.sqrt(num):
 		if num%a == 0:
 			return False;
 		a= a+1;
