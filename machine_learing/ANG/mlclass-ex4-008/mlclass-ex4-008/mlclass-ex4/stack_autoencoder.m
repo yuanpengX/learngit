@@ -2,7 +2,7 @@ load ex4data1
 m = size(X,1);
 hidden_size = round(size(X,2)/2);
 lambda = 1;
-iter = 10;
+iter = 1000;
 tic
 W1 = autoencoder(X,hidden_size,lambda,iter);
 toc
@@ -24,3 +24,5 @@ features = reshape(h2(sel(i),:),width,width);
 imagesc(features,[-1 1]);
 pause
 end
+
+save auto.mat
