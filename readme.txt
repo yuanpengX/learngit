@@ -154,3 +154,6 @@ First day of march, I finished a program to factorize any num.
 
 @2015/3/3
 Today I finished ANG's new homework, and try to code a autoencoder
+
+@2015/3/6
+good linux command
