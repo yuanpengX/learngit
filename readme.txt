@@ -157,3 +157,6 @@ Today I finished ANG's new homework, and try to code a autoencoder
 
 @2015/3/6
 good linux command
+
+@2015/3/7
+First day in ZJU. Nothing important.
