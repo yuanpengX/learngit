@@ -160,3 +160,13 @@ good linux command
 
 @2015/3/7
 First day in ZJU. Nothing important.
+
+@2015/3/12
+Today I continued ANG class, and try to submit online test.
+I SEEMED get accustomed to the life in ZJU, everything here goes as it supposed to be. I think dream will never upset me, and My next goal is try my best to improve myself and never give up.
+
+MY big semester plan:
+1. improve my english skill
+2. continue learning ML and DL
+3. read some literatures of good authors
+4. courses and experiments.
