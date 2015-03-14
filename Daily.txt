@@ -344,3 +344,6 @@ MY big semester plan:
 4. courses and experiments.
 
 When I stayed in this city, this university eventually, I found that everything is strange and I didn't know where I am and what can I do.
+
+@2015/3/14
+Yesterday I bought a book <machine learning pactice> and tried a lot to install some basic lib. by now, I finished all installations of these libs. Actually, I feel very excited now.
