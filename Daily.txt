@@ -347,3 +347,6 @@ When I stayed in this city, this university eventually, I found that everything 
 
 @2015/3/14
 Yesterday I bought a book <machine learning pactice> and tried a lot to install some basic lib. by now, I finished all installations of these libs. Actually, I feel very excited now.
+
+@2015/3/16
+Today I learned numpy, which is quiet similar to matlab.
