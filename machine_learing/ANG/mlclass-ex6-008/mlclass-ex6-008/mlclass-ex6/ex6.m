@@ -90,7 +90,7 @@ fprintf('Program paused. Press enter to continue.\n');
 pause;
 
 %% ========== Part 5: Training SVM with RBF Kernel (Dataset 2) ==========
-%  After you have implemented the kernel, we can now use it to train the 
+
 %  SVM classifier.
 % 
 fprintf('\nTraining SVM with RBF Kernel (this may take 1 to 2 minutes) ...\n');
