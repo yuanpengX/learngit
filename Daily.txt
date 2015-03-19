@@ -350,3 +350,9 @@ Yesterday I bought a book <machine learning pactice> and tried a lot to install 
 
 @2015/3/16
 Today I learned numpy, which is quiet similar to matlab.
+
+@2015/3/17
+Ang work has been delayed for a long time! never give up. TO be yourself
+
+@2015/3/19
+Today I suddenly fount that I should try to learn jsp and build website by myself
