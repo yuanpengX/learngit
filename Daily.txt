@@ -361,4 +361,7 @@ Today I suddenly fount that I should try to learn jsp and build website by mysel
 I went outside with classmates in cs1201, and they are kind of friendly.
 
 @2015/3/23
-I do not think my team leader can handle this project 
+I do not think my team leader can handle this project
+
+@2015/3/26
+I do hope I can improve my ability in programming. 
