@@ -365,3 +365,19 @@ I do not think my team leader can handle this project
 
 @2015/3/26
 I do hope I can improve my ability in programming. 
+
+@2015/3/27
+Today I was very angry for many reasons, but I think I should learn to control my emotion and try to become a more kindness person. NO ONE CAN SUNCCEED WITHOUT ANY DIFFICULT!
+
+@2015/3/29
+Today I've taken 2 interviews in MOGUJIE and QUNHE yun. Without too much mathematical knowledege, I didn't perform well in MOGUJIE. It do reminds me that I still have a long way to go in DM or ML. 
+
+@2015/3/30 
+Today I suddenly found that I didn't feel welll these days, for many reasons, one of the most important is that I felt very tired. And I couldn't focused in class which truely has bad impact on me. I think I shouldn't take my phone to class. For the second one is that I didn't have a plan in my study which make my life simply chaoes.
+
+@2015/4/1
+Today I review some Watermarking chapters, And suddenly found that  statisti
+cal and linear algebra knowledgement is very important, which may be the stacle in front of me.
+
+@2015/4/3
+Today I went to verilog, a new company in hangzhou. I was interviewed by two interviewers. One of them might not good at machine learning or other mathematical things. And another one seemed very proud. And They might havn't spent a lot of time in reading books. So I think It might be a wise decision to refuse to work in that company. I also heared that this company may be kind of sterotype.
