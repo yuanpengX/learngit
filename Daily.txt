@@ -381,3 +381,6 @@ cal and linear algebra knowledgement is very important, which may be the stacle 
 
 @2015/4/3
 Today I went to verilog, a new company in hangzhou. I was interviewed by two interviewers. One of them might not good at machine learning or other mathematical things. And another one seemed very proud. And They might havn't spent a lot of time in reading books. So I think It might be a wise decision to refuse to work in that company. I also heared that this company may be kind of sterotype.
+
+@2015/4/8
+I suddenly found that my life got back to kind of massive things, It's hard to handle it.
